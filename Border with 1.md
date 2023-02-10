@@ -1,0 +1,1 @@
+**Create a 2d array shape (5,6) with 1 on the border and 0 inside.**

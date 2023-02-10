@@ -1,0 +1,1 @@
+**Create an array of square of natural numbers between 20 and 30 both included.**

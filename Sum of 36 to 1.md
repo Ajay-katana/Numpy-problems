@@ -1,0 +1,1 @@
+**Create a (3,3,4) array with the value ranging from 36 to 1 in reverse order. Give the sum of values along the zero axis.**

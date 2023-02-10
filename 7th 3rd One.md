@@ -1,0 +1,1 @@
+**Create a null vector of size 9 but the 3rd value and 7th value will be 1.**

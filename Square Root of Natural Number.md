@@ -1,0 +1,1 @@
+**Create a 1D array of square root of first 10 natural numbers.**

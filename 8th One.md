@@ -1,0 +1,1 @@
+**Create a null vector of size 10 but the 8th value which is 1.**

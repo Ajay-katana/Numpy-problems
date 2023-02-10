@@ -1,0 +1,1 @@
+**Find the maximum value from the array [1,13,45,12,11,10,19,33,11] with numpy.**

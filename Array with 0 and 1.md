@@ -1,0 +1,1 @@
+**Create a 1D vector of size 10 with all values 1 but their first and last element will be zero.**
