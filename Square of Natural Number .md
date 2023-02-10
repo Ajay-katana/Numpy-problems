@@ -1,1 +1,1 @@
-**Create an array of square of natural numbers between 20 and 30 both included.**
+**Generate an array consisting of the squares of the natural numbers within the range of 20 to 30, inclusive.**
